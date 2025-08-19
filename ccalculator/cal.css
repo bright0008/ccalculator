@@ -1,0 +1,123 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: rgb(16, 16, 37);
+    font-family: monospace;
+}
+
+.cac1 {
+    color: white;
+    text-align: center;
+}
+
+.main {
+    background-color: rgb(59, 59, 150);
+    padding: 30px;
+    margin: 100px auto;
+    width: 500px;
+    border-radius: 15px;
+    height: 700px;
+    box-shadow: 0 3px 6px rgba(0, 0, 0, 0.16), 0 3px 6px rgba(0, 0, 0, 0.23);
+}
+
+.sub-main {
+    margin-left: 50px;
+}
+
+.display-box {
+    margin-top: 30px;
+    background-color: rgb(192, 192, 209);
+    width: 300px;
+    border-radius: 20px;
+    height: 50px;
+    margin-left: auto;
+    margin-right: auto;
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+    padding: 0 15px;
+    font-size: 1.8rem;
+}
+
+.sub-2 {
+    margin-top: 30px;
+    padding: 20px;
+}
+
+button {
+    border-style: none;
+    border-radius: 15px;
+    height: 60px;
+    font-size: 1.2rem;
+    cursor: pointer;
+    color: white;
+}
+
+button h2 {
+    margin: 0;
+    font-size: 1.4rem;
+}
+
+.button1 {
+    background-color: rgb(233, 59, 59);
+    width: 140px;
+}
+
+.button2 {
+    background-color: rgb(16, 16, 37);
+    width: 68px;
+}
+
+.button3 {
+    background-color: rgb(151, 100, 5);
+    width: 68px;
+}
+
+.button4,
+.button5,
+.button6,
+.button8,
+.button9,
+.button10,
+.button12,
+.button13,
+.button14,
+.button16,
+.button17 {
+    background-color: rgb(16, 16, 37);
+    width: 68px;
+}
+
+.button7,
+.button11,
+.button15 {
+    background-color: rgb(151, 100, 5);
+    width: 68px;
+}
+
+.button16 {
+    width: 140px;
+}
+
+.button18 {
+    background-color: rgb(66, 63, 63);
+    width: 68px;
+}
+
+.column2,
+.column3,
+.column4,
+.column5 {
+    margin-top: 20px;
+}
+
+p {
+    color: white;
+    margin-top: 10px;
+    text-align: center;
+    font-size: 0.9rem;
+}
